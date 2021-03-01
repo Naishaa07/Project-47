@@ -26,12 +26,13 @@ b5.shapeColor="blue"
 b6.velocityX=1
 b6.shapeColor="blue"
 
-box1 = new Box(200,20,275,40)
-box2 = new Box(200,20,225,40)
-box3 = new Box(b1.x,20,175,40)
-box4 = new Box(b1.x,20,125,40)
-box5 = new Box(b1.x,20,75,40)
 box6 = new Box(b1.x,20,25,40)
+box5 = new Box(b1.x,20,75,40)
+box4 = new Box(b1.x,20,125,40)
+box3 = new Box(b1.x,20,175,40)
+box2 = new Box(200,20,225,40)
+box1 = new Box(200,20,275,40)
+
 
 }
 
